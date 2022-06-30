@@ -1,2 +1,2 @@
 # gender-photo
-```Kiritgan ma'lumotimiz orqali, uni jinsini aniqlash.```
+``Kiritgan ma'lumotimiz orqali, uni jinsini aniqlash.``
